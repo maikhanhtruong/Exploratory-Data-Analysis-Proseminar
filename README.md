@@ -1,2 +1,5 @@
 # Exploratory-Data-Analysis-Proseminar
-![image](https://user-images.githubusercontent.com/70972199/165168466-8a42a272-f24f-4742-ae80-1ab550e6ecb7.png)
+
+Short Presentation about exploratory Data Analysis
+![image](https://user-images.githubusercontent.com/70972199/165168567-da51e864-4776-4573-b4d7-1d3c74bc54ae.png)
+
